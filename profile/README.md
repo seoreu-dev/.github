@@ -1,7 +1,4 @@
-[](https://github.com/seoreu-dev/.github/assets/33483699/295a6893-824c-4cfc-97dd-8f627cf8eec1)
-
-<h3 align="center">Technology Stack</h3>
-
+<h3 align="center">Technology Stack</h3> 
 <h5 align="center">Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/><a/>&nbsp
@@ -35,3 +32,5 @@
   <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=jira software&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/><a/>&nbsp
 </p>
+
+[](https://github.com/seoreu-dev/.github/assets/33483699/295a6893-824c-4cfc-97dd-8f627cf8eec1)
