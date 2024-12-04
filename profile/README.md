@@ -14,14 +14,14 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastAPI&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><a/>&nbsp
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/><a/>&nbsp
+  <img src="https://img.shields.io/badge/Go-005CED?style=flat-square&logo=Go&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><a/>&nbsp
 </p>
 
 <h5 align="center">AI</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><a/>&nbsp
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/><a/>&nbsp
+  <img src="https://img.shields.io/badge/ONNX-000066?style=flat-square&logo=onnx&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><a/>&nbsp
 </p>
 
