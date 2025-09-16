@@ -28,8 +28,8 @@
 <h5 align="center">CI/CD</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><a/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=gitHub actions&logoColor=white"/><a/>&nbsp
-  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=jira software&logoColor=white"/><a/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=gitHub%20actions&logoColor=white"/><a/>&nbsp
+  <img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=jira%20software&logoColor=white"/><a/>&nbsp
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white"/><a/>&nbsp
 </p>
 
